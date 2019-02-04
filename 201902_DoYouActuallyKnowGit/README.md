@@ -1,6 +1,17 @@
 # Savez-vous (vraiment) utiliser Git ?
 
-Ici, vous trouverez les commandes utilisées lors de la démonstration "live".
+## Références
+
+Devoxx FR 2014 - Git++ : Passez au niveau supérieur de la gestion de version
+
+https://www.youtube.com/watch?v=m0_C2cfM9IM
+
+Git Better
+
+https://www.youtube.com/watch?v=jtEthlTz1Q0
+
+
+Ensuite, vous trouverez les commandes utilisées lors de la démonstration "live".
 
 ## Analyse
 
